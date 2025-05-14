@@ -5,7 +5,7 @@
 
 ## Description
 
-Add here all the descriptions that you thik it will be usuful and valueble to this issue;
+Add here all the descriptions that you think it will be usuful and valuable to this issue;
 
 ## Screeshot
 
